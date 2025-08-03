@@ -1,0 +1,44 @@
+header h1{
+   text-align:center;
+   background-color:rgb(70, 79, 94) ;
+   color:white;
+}
+header img{
+   width:250px;
+}
+header p{
+   text-align:center;
+}
+main p{
+   font-size:20px ;
+}
+main p{
+   text-align:center;
+}
+body{
+font-family:sans-serif;
+}
+nav a{
+     font-size:20px ;
+     color:black;
+     border:1px solid black;
+     border-radius:10px;
+     padding:10px;
+     margin:10px;
+     text-decoration:none;
+     
+}
+nav{
+   text-align: center;
+
+}
+footer p{
+   font-size:20px;
+   text-align:center;
+   
+}
+footer p{
+   background-color:rgb(0, 0, 0) ;
+   color:white;
+
+}
